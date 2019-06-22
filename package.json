@@ -1,0 +1,21 @@
+{
+  "name": "knarr",
+  "version": "1.0.0",
+  "description": "A collection of scripts for hackathons",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikehacks-team/knarr.git"
+  },
+  "keywords": [
+    "scripts"
+  ],
+  "author": "Aanand Kainth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikehacks-team/knarr/issues"
+  },
+  "homepage": "https://github.com/vikehacks-team/knarr#readme",
+  "dependencies": {
+    "mailgun-js": "^0.22.0"
+  }
+}
