@@ -4,7 +4,7 @@ var fs = require('fs');
 
 var jsonConfiguration = JSON.parse(fs.readFileSync('config.json', 'utf8'));
 const mg = mailgun({ 
-	apiKey: process.env.mailgun-api-key, 
+	apiKey: process.env.MailgunApiKey, 
 	domain: "vikehacks.tech" 
 });
 const variables = {
@@ -14,10 +14,10 @@ const variables = {
 	hackathon_month: jsonConfiguration.hackathon_month,
 	reasons_paragraph: jsonConfiguration.reasons_paragraph,
 	your_full_name: jsonConfiguration.your_full_name
-};
+}
 const data = {
-	from: "Kento Nishi <kento@vikehacks.tech>",
-	to: "kento@vikehacks.tech",
+	from: `${jsonConfiguration.your_full_name} <${jsonConfiguration.your_vikehacks_email}>`,
+	to: jsonConfiguration.recipient_email,
 	subject: "Hackathon Sponsorship",
 	template: "sponsor_email",
 	'h:X-Mailgun-Variables': JSON.stringify(variables)
