@@ -1,13 +1,230 @@
 {
-	"your_role": "Role",
-	"hackathon_month": "Month",
-	"your_first_name": "First",
-	"your_full_name": "First Last",
-	"your_vikehacks_email": "name@vikehacks.tech",
-	"subject": "Hackathon Sponsorship",
-	"emails":[{
-		"recipient_first_name": "Recipient",
-		"recipient_email": "recipient@organization.com",
-		"reasons_paragraph": "Reasons"
-	}]
+	"your_role": "Co-President/Developer",
+	"your_first_name": "Kento",
+	"your_full_name": "Kento Nishi",
+	"your_vikehacks_email": "kento@vikehacks.tech",
+	"subject": "VikeHacks Sponsorship",
+	"date": "2/16/2020",
+	"emails": [
+		{
+			"recipient_email": "Cathy.Han@42technologies.com",
+			"reasons_paragraph": "42 Technologies is a company that focuses on analytics for buisness retailers. By partnering with us, you can expose your company to many young entreprenuers who your products have great appeal to and they will have the potential to become legitimate consumers. Therefore, we were hoping to open a dialogue with your team about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "tmifsud@roku.com",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "Caroline@3scan.com",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "fpazos@twilio.com",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "kari@sublimetext.com",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "support@bugsee.com",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "robin@bluestampengineering.com",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "ks@khoslaventures.com",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "lisa_depew@mcafee.com",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "a.hegyes@deep-web-solutions.de",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "martucci@akiliinteractive.com",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "Diego@algorithmia.com",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "rjashmore@artofproblemsolving.com",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "Sales@Eluktronics.com",
+			"reasons_paragraph": "At Eluktronics, you believe in providing the best quality product to your consumers. By sponsoring our hackathon, you’ll be supporting hundreds of students as they use their imagination, innovation, and computer science skills to build and develop the best quality innovative software products that they can. For this reason, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "marketing@audible.com",
+			"reasons_paragraph": "At Audible, you believe in educating the young generation by providing audiobooks for them. By sponsoring our hackathon, you’ll be supporting our mission to provide education, especially STEM education, to hundreds of students nationwide as they use their imagination, innovation, and computer science skills to build and develop innovative software projects. For this reason, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "hello@mindslab.ai",
+			"reasons_paragraph": "At Mindslab, by providing chatbots for people to use, you believe in promoting tech innovation that can be useful for society. By sponsoring our hackathon, you’ll be supporting hundreds of students as they use their imagination, innovation, and computer science skills to build and develop innovative software projects that can be useful for our society. For this reason, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "tom@joylabs.com",
+			"reasons_paragraph": "At Joylabs, your tagline is “A worldwide team, changing the world.” By sponsoring our hackathon, you’ll be supporting hundreds of students as they use their imagination, innovation, and computer science skills to build and develop innovative software projects that can be used to change the world. For this reason, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "info@tutorfly.org",
+			"reasons_paragraph": "At Tutorfly, by providing tutors for students, you believe in promoting education among students. By sponsoring our hackathon, you’ll be supporting our mission to make education, especially STEM education, available to hundreds of students nationwide. For this reason, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "info@nuro.ai",
+			"reasons_paragraph": "At Nuro, your mission is to accelerate the benefits of robotics for everyday life. By sponsoring our hackathon, you’ll be supporting hundreds of students as they use their imagination, innovation, and computer-science skills to build and develop innovative software projects that benefit everyday life. For this reason, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "na.panasonic.com",
+			"reasons_paragraph": "At Panasonic, you believe in helping businesses and governments improve life. By sponsoring our hackathon, you’ll be supporting hundreds of students as they use their imagination, innovation, and computer science skills to build and develop innovative software projects that can help improve life. For this reason, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "support@applovin.com",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "info@contact.blueprint.com",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "syeluru@cisco.com",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "brook@cloudsploit.io",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "a.hegyes@deep-web-solutions.de",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "support@edmodo.com",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "info@estimote.com",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "support@force1rc.com",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "brandmarketing@godaddy.com",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "hackathons@hasura.io",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "drink@jusjus.be",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "ks@khoslaventures.com",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "hello@kloudless.com",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "lisa_depew@mcafee.com",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "smsp@creation.io",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "ignitesponsors@paloaltonetworks.com.",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "info@pulmatrix.com",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "kbattles@quora.com",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "support@rawgeneration.com",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "contact@repl.it",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "amjad@repl.it",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "hello@sisu.ai",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "hello@think-board.com",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "hanson@think-board.com",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "partner@thrive5.org",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "sales@tipcotec.com",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "info@drinktruce.com",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "maria@unshackledvc.com",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "xboxpress@assemblyinc.com",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "info@zoom.us",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "christine@500startups.com",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "amanverjee@500startups.com",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "vk@khoslaventures.com",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "manan@unshackledvc.com",
+			"reasons_paragraph": "The bay area has a very competitive atmosphere and is filled with students that strive strongly for academic success. Vikehacks essentially brings together students in the bay area to one place where they can learn in workshops and utilize tools provided by the hackathon. Sponsoring Vikehacks would offer great exposure for your company and specifically because bay area students have a strong academic focus, the tools and nesseticies that your company provides can be especially appealing to hackers. Because of this, we were hoping to open a dialogue about the potential of sponsoring Vikehacks."
+		},
+		{
+			"recipient_email": "oscar.contreras@247.ai",
+			"reasons_paragraph": "At 24/7 Customer, you believe in making the best customer experience possible by using artificial intelligence to understand consumer intent. By sponsoring our hackathon, you’ll be supporting these students as they can build projects using artificial intelligence that can make our lives easier. For this reason, we were hoping to open a dialogue about the potential of sponsoring VikeHacks."
+		}
+	]
 }
