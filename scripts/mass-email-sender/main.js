@@ -11,38 +11,18 @@ const mg = mailgun({
 var promises = [];
 jsonConfiguration.emails.forEach(email => {
 	const data = {
-		from: `Kento Nishi <kento@vikehacks.tech>`,
+		from: `Michael Peng <michael@vikehacks.tech>`,
 		to: email,
-		subject: "VikeHacks Postponement",
+		subject: "VikeHacks Update",
 		html: `
-			Hello,
-			<br />
-			<br />
-			Thank you for your interest in VikeHacks!
-			<br />
-			<br />
-			Over the past few weeks, it has been brought to our attention that the weekend of VikeHacks (1/19/2020) 
-			overlaps with the USACO January contest and the Lynbrook winter formal. To avoid potential scheduling conflicts, 
-			VikeHacks has been postponed to February 16th, 2020. Due to this delay, our location is currently unconfirmed – 
-			however, we are still planning to host VikeHacks at Lynbrook High School.
-			<br />
-			<br />
-			If you have any questions or concerns, feel free to send us an email at 
-			<a href="mailto:organizers@vikehacks.tech">organizers@vikehacks.tech</a>.
-			<br />
-			<br />
-			Hope to see you soon, and happy coding!
-			<br />
-			<br />
-			Sincerely,
-			<br />
-			Kento Nishi
-			<br />
-			VikeHacks Organizer and Developer
-			<br />
-			<a href="mailto:kento@vikehacks.tech">kento@vikehacks.tech</a>
-			<br />
-			VikeHacks website: <a href="https://vikehacks.tech/">vikehacks.tech</a>
+			Hello everyone,
+			<br><br>
+			Thank you all very much for your interest in Vikehacks. Due to unfortunate circumstances, the date and location of VikeHacks still remains unconfirmed at this time. We will be keeping you up to date by email once the details are confirmed.
+			<br><br>
+			If you have any questions, please feel free to contact us at michael@vikehacks.tech.
+			<br><br>
+			Thanks,<br>
+			Vikehacks Organizers
 			`
 	};
 	promises.push(mg.messages().send(data));
